@@ -15,4 +15,4 @@ If you use this code or ideas from it, please cite or reference the thesis:
 Tiago Ferreira, "DFL Study Based on DL," Master's thesis, ISEC, 2025.
 
 #### License
-This code is released under the Apache 2.0 License. See the LICENSE file for more details.
+This code is released under the Apache 2.0 license. See the LICENSE file for more details.
