@@ -54,7 +54,7 @@ def parse_evaluation_file(filename, n_nodes=9):
     evaluator_pattern = re.compile(r"^MODEL\s+(\d+):")
     score_pattern = re.compile(
         r"Model\s+(\d+)\s+(?:passed|failed)\s+with\s+"
-        r"Weighted Avg F1-score of\s+([0-9]*\.?[0-9]+)"
+        r"Weighted Avg F1-Score of\s+([0-9]*\.?[0-9]+)"
     )
     with open(filename, "r") as f:
         for line in f:
