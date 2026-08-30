@@ -15,7 +15,7 @@ If you use this code, the experimental results, or ideas from this repository, p
 
 ##### Thesis
 
-* T. Ferreira, “Decentralized Federated Learning Study Based on Distributed Ledgers,” M.S. thesis, Dept. Syst. Comput. Eng., Coimbra Inst. Eng., Polytechnic Univ. Coimbra, Coimbra, Portugal, 2025. [Online]. Available: https://hdl.handle.net/10400.26/63851. [Accessed: Aug. 30, 2026].
+* T. Ferreira, “Decentralized Federated Learning Study Based on Distributed Ledgers,” M.S. thesis, Dept. Syst. Comput. Eng., Coimbra Inst. Eng., Polytechnic Univ. Coimbra, Coimbra, Portugal, 2025. [Online]. Available: https://hdl.handle.net/10400.26/63851.
 
 #### License
 This code is released under the Apache 2.0 license. See the LICENSE file for more details.
