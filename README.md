@@ -9,8 +9,11 @@ Decentralized Federated Learning (DFL) presents a promising paradigm for collabo
 * experiments-code/ — Code used to perform the experiments presented in the thesis report;
 * report/ - The thesis full report.
 
-#### Thesis Reference
-If you use this code or ideas from it, please cite or reference the thesis:
+#### How to Cite
+
+If you use this code, the experimental results, or ideas from this repository, please cite the relevant work.
+
+##### Thesis
 
 Tiago Ferreira, "DFL Study Based on DL," Master's thesis, ISEC, 2025.
 
