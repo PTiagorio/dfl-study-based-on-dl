@@ -1,0 +1,757 @@
+MODEL 0:
+Train: Found 177 examples for class bed
+Val: Found 23 examples for class bed
+Train: Found 188 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 349 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 38 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 40 examples for class five
+Train: Found 328 examples for class four
+Val: Found 41 examples for class four
+Train: Found 345 examples for class go
+Val: Found 42 examples for class go
+Train: Found 181 examples for class happy
+Val: Found 25 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 21 examples for class house
+Train: Found 337 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 21 examples for class marvin
+Train: Found 353 examples for class nine
+Val: Found 40 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 42 examples for class off
+Train: Found 343 examples for class on
+Val: Found 41 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 335 examples for class right
+Val: Found 41 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 178 examples for class sheila
+Val: Found 23 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 346 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 329 examples for class three
+Val: Found 40 examples for class three
+Train: Found 157 examples for class tree
+Val: Found 17 examples for class tree
+Train: Found 346 examples for class two
+Val: Found 38 examples for class two
+Train: Found 327 examples for class up
+Val: Found 39 examples for class up
+Train: Found 191 examples for class wow
+Val: Found 22 examples for class wow
+Train: Found 359 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 42 examples for class zero
+Train: Found 150 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 140 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 142 examples for class follow
+Val: Found 15 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 15 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 15 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.9018655898410979
+Model 1 passed with Weighted Avg F1-Score of 0.7646563927664075
+Model 2 passed with Weighted Avg F1-Score of 0.7848771947582516
+Model 3 passed with Weighted Avg F1-Score of 0.7552975735659531
+Model 4 passed with Weighted Avg F1-Score of 0.780928753539385
+Model 5 passed with Weighted Avg F1-Score of 0.7856858837698762
+Model 6 passed with Weighted Avg F1-Score of 0.7848628617790087
+Model 7 passed with Weighted Avg F1-Score of 0.7817319709261363
+Model 8 passed with Weighted Avg F1-Score of 0.7697054070378202
+[1. 1. 1. 1. 1. 1. 1. 1. 1.]
+--------------------//--------------------
+MODEL 1:
+Train: Found 177 examples for class bed
+Val: Found 23 examples for class bed
+Train: Found 188 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 21 examples for class dog
+Train: Found 349 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 38 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 328 examples for class four
+Val: Found 41 examples for class four
+Train: Found 345 examples for class go
+Val: Found 42 examples for class go
+Train: Found 181 examples for class happy
+Val: Found 25 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 21 examples for class house
+Train: Found 337 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 21 examples for class marvin
+Train: Found 353 examples for class nine
+Val: Found 40 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 42 examples for class off
+Train: Found 343 examples for class on
+Val: Found 41 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 335 examples for class right
+Val: Found 41 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 178 examples for class sheila
+Val: Found 23 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 346 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 329 examples for class three
+Val: Found 40 examples for class three
+Train: Found 157 examples for class tree
+Val: Found 17 examples for class tree
+Train: Found 346 examples for class two
+Val: Found 39 examples for class two
+Train: Found 327 examples for class up
+Val: Found 39 examples for class up
+Train: Found 191 examples for class wow
+Val: Found 22 examples for class wow
+Train: Found 359 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 42 examples for class zero
+Train: Found 150 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 140 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 142 examples for class follow
+Val: Found 15 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 15 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7742908787117977
+Model 1 passed with Weighted Avg F1-Score of 0.8903293812975224
+Model 2 passed with Weighted Avg F1-Score of 0.7844695143703551
+Model 3 passed with Weighted Avg F1-Score of 0.7730086471705062
+Model 4 passed with Weighted Avg F1-Score of 0.7939358804230694
+Model 5 passed with Weighted Avg F1-Score of 0.7874181364455283
+Model 6 passed with Weighted Avg F1-Score of 0.7912364629191774
+Model 7 passed with Weighted Avg F1-Score of 0.7892853977223928
+Model 8 passed with Weighted Avg F1-Score of 0.7785799081368718
+[2. 2. 2. 2. 2. 2. 2. 2. 2.]
+--------------------//--------------------
+MODEL 2:
+Train: Found 178 examples for class bed
+Val: Found 24 examples for class bed
+Train: Found 188 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 38 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 328 examples for class four
+Val: Found 41 examples for class four
+Train: Found 345 examples for class go
+Val: Found 41 examples for class go
+Train: Found 181 examples for class happy
+Val: Found 25 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 21 examples for class house
+Train: Found 338 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 21 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 40 examples for class nine
+Train: Found 347 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 42 examples for class off
+Train: Found 342 examples for class on
+Val: Found 40 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 336 examples for class right
+Val: Found 40 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 178 examples for class sheila
+Val: Found 23 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 345 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 329 examples for class three
+Val: Found 40 examples for class three
+Train: Found 157 examples for class tree
+Val: Found 18 examples for class tree
+Train: Found 346 examples for class two
+Val: Found 39 examples for class two
+Train: Found 328 examples for class up
+Val: Found 39 examples for class up
+Train: Found 192 examples for class wow
+Val: Found 22 examples for class wow
+Train: Found 359 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 42 examples for class zero
+Train: Found 150 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 140 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 142 examples for class follow
+Val: Found 15 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 15 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7835181973471238
+Model 1 passed with Weighted Avg F1-Score of 0.7736801082875002
+Model 2 passed with Weighted Avg F1-Score of 0.9088507912280223
+Model 3 passed with Weighted Avg F1-Score of 0.7662541064287448
+Model 4 passed with Weighted Avg F1-Score of 0.7845338461679557
+Model 5 passed with Weighted Avg F1-Score of 0.7832382577548872
+Model 6 passed with Weighted Avg F1-Score of 0.7880747382876033
+Model 7 passed with Weighted Avg F1-Score of 0.7813041224871211
+Model 8 passed with Weighted Avg F1-Score of 0.7749020181390834
+[3. 3. 3. 3. 3. 3. 3. 3. 3.]
+--------------------//--------------------
+MODEL 3:
+Train: Found 177 examples for class bed
+Val: Found 24 examples for class bed
+Train: Found 188 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 38 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 328 examples for class four
+Val: Found 41 examples for class four
+Train: Found 345 examples for class go
+Val: Found 41 examples for class go
+Train: Found 181 examples for class happy
+Val: Found 24 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 22 examples for class house
+Train: Found 338 examples for class left
+Val: Found 40 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 22 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 40 examples for class nine
+Train: Found 347 examples for class no
+Val: Found 46 examples for class no
+Train: Found 330 examples for class off
+Val: Found 41 examples for class off
+Train: Found 343 examples for class on
+Val: Found 40 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 336 examples for class right
+Val: Found 40 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 179 examples for class sheila
+Val: Found 23 examples for class sheila
+Train: Found 344 examples for class six
+Val: Found 42 examples for class six
+Train: Found 345 examples for class stop
+Val: Found 38 examples for class stop
+Train: Found 330 examples for class three
+Val: Found 39 examples for class three
+Train: Found 156 examples for class tree
+Val: Found 18 examples for class tree
+Train: Found 346 examples for class two
+Val: Found 39 examples for class two
+Train: Found 328 examples for class up
+Val: Found 38 examples for class up
+Train: Found 192 examples for class wow
+Val: Found 21 examples for class wow
+Train: Found 359 examples for class yes
+Val: Found 45 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 43 examples for class zero
+Train: Found 149 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 139 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 142 examples for class follow
+Val: Found 15 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 15 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7797762992834164
+Model 1 passed with Weighted Avg F1-Score of 0.767856014410477
+Model 2 passed with Weighted Avg F1-Score of 0.7840257409009311
+Model 3 passed with Weighted Avg F1-Score of 0.8853450336624286
+Model 4 passed with Weighted Avg F1-Score of 0.7840490058094409
+Model 5 passed with Weighted Avg F1-Score of 0.785700440644055
+Model 6 passed with Weighted Avg F1-Score of 0.7853559423854055
+Model 7 passed with Weighted Avg F1-Score of 0.7849243963967683
+Model 8 passed with Weighted Avg F1-Score of 0.7731813535180098
+[4. 4. 4. 4. 4. 4. 4. 4. 4.]
+--------------------//--------------------
+MODEL 4:
+Train: Found 177 examples for class bed
+Val: Found 24 examples for class bed
+Train: Found 189 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 39 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 328 examples for class four
+Val: Found 42 examples for class four
+Train: Found 345 examples for class go
+Val: Found 41 examples for class go
+Train: Found 181 examples for class happy
+Val: Found 24 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 22 examples for class house
+Train: Found 338 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 22 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 39 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 41 examples for class off
+Train: Found 343 examples for class on
+Val: Found 40 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 336 examples for class right
+Val: Found 40 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 179 examples for class sheila
+Val: Found 23 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 345 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 330 examples for class three
+Val: Found 39 examples for class three
+Train: Found 156 examples for class tree
+Val: Found 18 examples for class tree
+Train: Found 346 examples for class two
+Val: Found 38 examples for class two
+Train: Found 328 examples for class up
+Val: Found 39 examples for class up
+Train: Found 192 examples for class wow
+Val: Found 21 examples for class wow
+Train: Found 359 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 43 examples for class zero
+Train: Found 149 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 139 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 141 examples for class follow
+Val: Found 15 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 16 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7881428608631657
+Model 1 passed with Weighted Avg F1-Score of 0.7730348387503032
+Model 2 passed with Weighted Avg F1-Score of 0.7905321686667157
+Model 3 passed with Weighted Avg F1-Score of 0.765484438548032
+Model 4 passed with Weighted Avg F1-Score of 0.9041974732378512
+Model 5 passed with Weighted Avg F1-Score of 0.7998997263261878
+Model 6 passed with Weighted Avg F1-Score of 0.7917264578389368
+Model 7 passed with Weighted Avg F1-Score of 0.7858121954985351
+Model 8 passed with Weighted Avg F1-Score of 0.7762386438584622
+[5. 5. 5. 5. 5. 5. 5. 5. 5.]
+--------------------//--------------------
+MODEL 5:
+Train: Found 177 examples for class bed
+Val: Found 24 examples for class bed
+Train: Found 189 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 39 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 328 examples for class four
+Val: Found 42 examples for class four
+Train: Found 345 examples for class go
+Val: Found 41 examples for class go
+Train: Found 181 examples for class happy
+Val: Found 24 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 22 examples for class house
+Train: Found 338 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 22 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 39 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 41 examples for class off
+Train: Found 343 examples for class on
+Val: Found 40 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 336 examples for class right
+Val: Found 40 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 179 examples for class sheila
+Val: Found 22 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 346 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 330 examples for class three
+Val: Found 39 examples for class three
+Train: Found 156 examples for class tree
+Val: Found 18 examples for class tree
+Train: Found 345 examples for class two
+Val: Found 38 examples for class two
+Train: Found 328 examples for class up
+Val: Found 39 examples for class up
+Train: Found 192 examples for class wow
+Val: Found 21 examples for class wow
+Train: Found 359 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 43 examples for class zero
+Train: Found 149 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 139 examples for class forward
+Val: Found 17 examples for class forward
+Train: Found 141 examples for class follow
+Val: Found 15 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 16 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7727920758663074
+Model 1 passed with Weighted Avg F1-Score of 0.7660137524550532
+Model 2 passed with Weighted Avg F1-Score of 0.7847485378148061
+Model 3 passed with Weighted Avg F1-Score of 0.7599614513889786
+Model 4 passed with Weighted Avg F1-Score of 0.7833292332033825
+Model 5 passed with Weighted Avg F1-Score of 0.8988054889208915
+Model 6 passed with Weighted Avg F1-Score of 0.7823583600407588
+Model 7 passed with Weighted Avg F1-Score of 0.7771227437040045
+Model 8 passed with Weighted Avg F1-Score of 0.7714319715132524
+[6. 6. 6. 6. 6. 6. 6. 6. 6.]
+--------------------//--------------------
+MODEL 6:
+Train: Found 177 examples for class bed
+Val: Found 24 examples for class bed
+Train: Found 189 examples for class bird
+Val: Found 21 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 191 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 39 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 329 examples for class four
+Val: Found 42 examples for class four
+Train: Found 345 examples for class go
+Val: Found 41 examples for class go
+Train: Found 182 examples for class happy
+Val: Found 24 examples for class happy
+Train: Found 191 examples for class house
+Val: Found 22 examples for class house
+Train: Found 337 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 22 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 39 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 41 examples for class off
+Train: Found 343 examples for class on
+Val: Found 40 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 335 examples for class right
+Val: Found 40 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 179 examples for class sheila
+Val: Found 22 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 346 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 330 examples for class three
+Val: Found 39 examples for class three
+Train: Found 156 examples for class tree
+Val: Found 18 examples for class tree
+Train: Found 345 examples for class two
+Val: Found 38 examples for class two
+Train: Found 328 examples for class up
+Val: Found 39 examples for class up
+Train: Found 192 examples for class wow
+Val: Found 21 examples for class wow
+Train: Found 358 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 43 examples for class zero
+Train: Found 149 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 139 examples for class forward
+Val: Found 17 examples for class forward
+Train: Found 141 examples for class follow
+Val: Found 14 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 144 examples for class visual
+Val: Found 16 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7856312849966687
+Model 1 passed with Weighted Avg F1-Score of 0.7753416581799427
+Model 2 passed with Weighted Avg F1-Score of 0.7910625278787858
+Model 3 passed with Weighted Avg F1-Score of 0.7688313092877221
+Model 4 passed with Weighted Avg F1-Score of 0.7894656693135051
+Model 5 passed with Weighted Avg F1-Score of 0.7919957997563788
+Model 6 passed with Weighted Avg F1-Score of 0.911436329194982
+Model 7 passed with Weighted Avg F1-Score of 0.7948292547271228
+Model 8 passed with Weighted Avg F1-Score of 0.7808237962750484
+[7. 7. 7. 7. 7. 7. 7. 7. 7.]
+--------------------//--------------------
+MODEL 7:
+Train: Found 177 examples for class bed
+Val: Found 24 examples for class bed
+Train: Found 189 examples for class bird
+Val: Found 21 examples for class bird
+Train: Found 185 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 42 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 39 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 41 examples for class five
+Train: Found 329 examples for class four
+Val: Found 42 examples for class four
+Train: Found 345 examples for class go
+Val: Found 41 examples for class go
+Train: Found 182 examples for class happy
+Val: Found 24 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 22 examples for class house
+Train: Found 337 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 22 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 39 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 41 examples for class off
+Train: Found 343 examples for class on
+Val: Found 40 examples for class on
+Train: Found 348 examples for class one
+Val: Found 39 examples for class one
+Train: Found 335 examples for class right
+Val: Found 40 examples for class right
+Train: Found 357 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 178 examples for class sheila
+Val: Found 22 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 346 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 330 examples for class three
+Val: Found 40 examples for class three
+Train: Found 156 examples for class tree
+Val: Found 18 examples for class tree
+Train: Found 345 examples for class two
+Val: Found 38 examples for class two
+Train: Found 327 examples for class up
+Val: Found 39 examples for class up
+Train: Found 191 examples for class wow
+Val: Found 21 examples for class wow
+Train: Found 358 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 361 examples for class zero
+Val: Found 43 examples for class zero
+Train: Found 150 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 140 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 142 examples for class follow
+Val: Found 14 examples for class follow
+Train: Found 143 examples for class learn
+Val: Found 14 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 16 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7788377120991357
+Model 1 passed with Weighted Avg F1-Score of 0.760748032129429
+Model 2 passed with Weighted Avg F1-Score of 0.7793735090460202
+Model 3 passed with Weighted Avg F1-Score of 0.7635878025764601
+Model 4 passed with Weighted Avg F1-Score of 0.7840955393688007
+Model 5 passed with Weighted Avg F1-Score of 0.7840080023848761
+Model 6 passed with Weighted Avg F1-Score of 0.7851601209408172
+Model 7 passed with Weighted Avg F1-Score of 0.9084353331689909
+Model 8 passed with Weighted Avg F1-Score of 0.772206079167325
+[8. 8. 8. 8. 8. 8. 8. 8. 8.]
+--------------------//--------------------
+MODEL 8:
+Train: Found 177 examples for class bed
+Val: Found 23 examples for class bed
+Train: Found 189 examples for class bird
+Val: Found 20 examples for class bird
+Train: Found 184 examples for class cat
+Val: Found 20 examples for class cat
+Train: Found 190 examples for class dog
+Val: Found 22 examples for class dog
+Train: Found 348 examples for class down
+Val: Found 41 examples for class down
+Train: Found 337 examples for class eight
+Val: Found 38 examples for class eight
+Train: Found 360 examples for class five
+Val: Found 40 examples for class five
+Train: Found 329 examples for class four
+Val: Found 41 examples for class four
+Train: Found 346 examples for class go
+Val: Found 42 examples for class go
+Train: Found 182 examples for class happy
+Val: Found 24 examples for class happy
+Train: Found 192 examples for class house
+Val: Found 22 examples for class house
+Train: Found 337 examples for class left
+Val: Found 39 examples for class left
+Train: Found 190 examples for class marvin
+Val: Found 22 examples for class marvin
+Train: Found 352 examples for class nine
+Val: Found 40 examples for class nine
+Train: Found 348 examples for class no
+Val: Found 45 examples for class no
+Train: Found 330 examples for class off
+Val: Found 42 examples for class off
+Train: Found 343 examples for class on
+Val: Found 41 examples for class on
+Train: Found 349 examples for class one
+Val: Found 39 examples for class one
+Train: Found 335 examples for class right
+Val: Found 41 examples for class right
+Train: Found 356 examples for class seven
+Val: Found 43 examples for class seven
+Train: Found 178 examples for class sheila
+Val: Found 23 examples for class sheila
+Train: Found 343 examples for class six
+Val: Found 42 examples for class six
+Train: Found 346 examples for class stop
+Val: Found 39 examples for class stop
+Train: Found 329 examples for class three
+Val: Found 40 examples for class three
+Train: Found 156 examples for class tree
+Val: Found 17 examples for class tree
+Train: Found 346 examples for class two
+Val: Found 38 examples for class two
+Train: Found 327 examples for class up
+Val: Found 39 examples for class up
+Train: Found 191 examples for class wow
+Val: Found 22 examples for class wow
+Train: Found 358 examples for class yes
+Val: Found 44 examples for class yes
+Train: Found 362 examples for class zero
+Val: Found 43 examples for class zero
+Train: Found 150 examples for class backward
+Val: Found 17 examples for class backward
+Train: Found 140 examples for class forward
+Val: Found 16 examples for class forward
+Train: Found 142 examples for class follow
+Val: Found 14 examples for class follow
+Train: Found 142 examples for class learn
+Val: Found 15 examples for class learn
+Train: Found 143 examples for class visual
+Val: Found 15 examples for class visual
+--------------------//--------------------
+Model 0 passed with Weighted Avg F1-Score of 0.7752761372413408
+Model 1 passed with Weighted Avg F1-Score of 0.7695577187091639
+Model 2 passed with Weighted Avg F1-Score of 0.7907099170566496
+Model 3 passed with Weighted Avg F1-Score of 0.7671165257325148
+Model 4 passed with Weighted Avg F1-Score of 0.7854327256899384
+Model 5 passed with Weighted Avg F1-Score of 0.7916607123826588
+Model 6 passed with Weighted Avg F1-Score of 0.7912119797317354
+Model 7 passed with Weighted Avg F1-Score of 0.7850720588513891
+Model 8 passed with Weighted Avg F1-Score of 0.8952216725206454
+[9. 9. 9. 9. 9. 9. 9. 9. 9.]
+--------------------//--------------------
+RESULTS:
+Model 0 passed with 9.0 votes
+Model 1 passed with 9.0 votes
+Model 2 passed with 9.0 votes
+Model 3 passed with 9.0 votes
+Model 4 passed with 9.0 votes
+Model 5 passed with 9.0 votes
+Model 6 passed with 9.0 votes
+Model 7 passed with 9.0 votes
+Model 8 passed with 9.0 votes

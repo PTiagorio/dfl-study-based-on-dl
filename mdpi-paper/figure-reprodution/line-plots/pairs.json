@@ -1,0 +1,66 @@
+[
+[
+"savedmodel-f1-through-noise-table",
+"Figures/Case Studies/SavedModel-F1-through-Noise.png"
+],
+[
+"pruning-f1-through-noise-table",
+"Figures/Case Studies/Pruning-F1-through-Noise.png"
+],
+[
+"litert-f1-through-noise-table",
+"Figures/Case Studies/LiteRT-F1-through-Noise.png"
+],
+[
+"quantization-f1-through-noise-table",
+"Figures/Case Studies/Quantization-F1-through-Noise.png"
+],
+[
+"savedmodel-f1-through-unbalance-table",
+"Figures/Case Studies/SavedModel-F1-through-Unbalance.png"
+],
+[
+"pruning-f1-through-unbalance-table",
+"Figures/Case Studies/Pruning-F1-through-Unbalance.png"
+],
+[
+"litert-f1-through-unbalance-table",
+"Figures/Case Studies/LitRT-F1-through-Unbalance.png"
+],
+[
+"quantization-f1-through-unbalance-table",
+"Figures/Case Studies/Quantization-F1-through-Unbalance.png"
+],
+[
+"savedmodel-f1-minority-poisoned-nodes-no-limits",
+"Figures/Case Studies/SavedModel-F1-minority-poisoned-nodes-no-limits.png"
+],
+[
+"pruning-f1-minority-poisoned-nodes-no-limits",
+"Figures/Case Studies/Pruning-F1-minority-poisoned-nodes-no-limits.png"
+],
+[
+"litert-f1-minority-poisoned-nodes-no-limits",
+"Figures/Case Studies/LiteRT-F1-minority-poisoned-nodes-no-limits.png"
+],
+[
+"quantization-f1-minority-poisoned-nodes-no-limits",
+"Figures/Case Studies/Quantization-F1-minority-poisoned-nodes-no-limits.png"
+],
+[
+"savedmodel-f1-minority-poisoned-nodes-with-limits",
+"Figures/Case Studies/SavedModel-F1-minority-poisoned-nodes-with-limits.png"
+],
+[
+"pruning-f1-minority-poisoned-nodes-with-limits",
+"Figures/Case Studies/Pruning-F1-minority-poisoned-nodes-with-limits.png"
+],
+[
+"litert-f1-minority-poisoned-nodes-with-limits",
+"Figures/Case Studies/LiteRT-F1-minority-poisoned-nodes-with-limits.png"
+],
+[
+"quantization-f1-minority-poisoned-nodes-with-limits",
+"Figures/Case Studies/Quantization-F1-minority-poisoned-nodes-with-limits.png"
+]
+]
