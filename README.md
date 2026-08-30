@@ -14,6 +14,10 @@ Decentralized Federated Learning (DFL) presents a promising paradigm for collabo
 
 If you use this code, the experimental results, or ideas from this repository, please cite the relevant work.
 
+##### MDPI Paper
+
+[MDPI PAPER]
+
 ##### Thesis
 
 * T. Ferreira, “Decentralized federated learning study based on distributed ledgers,” M.S. thesis, Department of Systems and Computer Engineering, Coimbra Institute of Engineering, Polytechnic University of Coimbra, Coimbra, Portugal, 2025. [Online]. Available: https://hdl.handle.net/10400.26/63851
