@@ -154,4 +154,4 @@ If you use this material, please cite the corresponding paper.
 
 ## License
 
-Please refer to the repository's license file for the terms under which this code and the accompanying files may be used.
+This code is released under the Apache 2.0 license. See the LICENSE file for more details.
