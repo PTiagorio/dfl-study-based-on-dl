@@ -15,7 +15,9 @@ If you use this code, the experimental results, or ideas from this repository, p
 
 ##### Thesis
 
-Tiago Ferreira, "DFL Study Based on DL," Master's thesis, ISEC, 2025.
+* Ferreira, T. (2025). *Decentralized federated learning study based on distributed ledgers* [Master's dissertation]. Instituto Superior de Engenharia de Coimbra, Polytechnic University of Coimbra.
+
+https://hdl.handle.net/10400.26/63851
 
 #### License
 This code is released under the Apache 2.0 license. See the LICENSE file for more details.
